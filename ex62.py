@@ -19,4 +19,5 @@ while mais != 0:
         termo += rz
     print('PAUSA')
     mais = int(input('Quantos termos você quer mostrar a mais? '))
+print('Processo finalizado com {} itens mostrados'.format(total))
 print('FIM')
