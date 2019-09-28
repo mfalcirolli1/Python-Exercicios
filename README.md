@@ -10,7 +10,8 @@
 <body>
    
 <h1> Python-Exercicios </h1>
-<h2> Módulo 1: Exercícios feitos através da realização do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6" target="_blank">Curso de Python</a> disponível no Youtube pelo canal Curso em Vídeo. </h2>
+<h2> Módulos 1, 2 e 3: Exercícios feitos através da realização do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6" target="_blank">Curso de Python</a> disponível no Youtube pelo canal Curso em Vídeo. </h2>
+<h2> Módulo 1: 1 → 35 | Módulo 2: 36 → 71 | Módulo 3: 72 → 113 </h2>
 
 <h3>
 ex01 - Hello, world <br/>
@@ -44,37 +45,40 @@ ex28 - Jogo da Adivinhação v1.0<br/>
 ex29 - Radar eletrônico<br/>
 ex30 - Par ou Ímpar<br/>
 ex31 - Custo da viagem<br/>
-ex32 - <br/>
-ex33 - <br/>
-ex34 - <br/>
-ex35 - <br/>
-ex36 - <br/>
-ex37 - <br/>
-ex38 - <br/>
-ex39 - <br/>
-ex40 - <br/>
-ex41 - <br/>
-ex42 - <br/>
-ex43 - <br/>
-ex44 - <br/>
-ex45 - <br/>
-ex46 - <br/>
-ex47 - <br/>
-ex48 - <br/>
-ex49 - <br/>
-ex50 - <br/>
-ex51 - <br/>
-ex52 - <br/>
-ex53 - <br/>
-ex54 - <br/>
-ex55 - <br/>
-ex56 - <br/>
-ex57 - <br/>
-ex58 - <br/>
-ex59 - <br/>
-ex60 - <br/>
-ex61 - <br/>
-ex62 - <br/>
+ex32 - Ano bissexto<br/>
+ex33 - Maior e menor valor<br/>
+ex34 - Aumentos múltiplos<br/>
+ex35 - Analisando Triângulo v1.0<br/>
+ex36 - Empréstimo bancário<br/>
+ex37 - Conversor de bases númericas<br/>
+ex38 - Comparando números<br/>
+ex39 - Alistamento Militar<br/>
+ex40 - Média escolar<br/>
+ex41 - Classificando Atletas<br/>
+ex42 - Analisando Triângulos v2.0<br/>
+ex43 - Índice de Massa Corporal<br/>
+ex44 - Gerenciador de Pagamentos<br/>
+ex45 - GAME: Pedra Papel e Tesoura<br/>
+ex46 - Contagem Regressiva<br/>
+ex47 - Contagem de Pares<br/>
+ex48 - Soma ímpares múltiplos de três<br/>
+ex49 - Tabuada v2.0<br/>
+ex50 - Soma dos pares<br/>
+ex51 - Progressão Aritmética v1.0<br/>
+ex52 - Números primos<br/>
+ex53 - Detector de Palíndromo<br/>
+ex54 - Grupo de Maioridade<br/>
+ex55 - Maior e menor da sequência<br/>
+ex56 - Analisador completo<br/>
+ex57 - Validação de dados<br/>
+ex58 - Jogo da Adivinhação v2.0<br/>
+ex59 - Criando um Menu de Opções<br/>
+ex60 - Cálculo do Fatorial<br/>
+ex61 - Progressão Aritmética v2.0<br/>
+ex62 - Progressão Aritmética v3.0<br/>
+ex63 - Sequência de Fibonacci v1.0<br/>
+ex64 - Tratando vários valores v1.0<br/>
+ex65 - Maior e Menor Valores<br/>
 </h3>
 
 </body>
