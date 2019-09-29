@@ -79,6 +79,12 @@ ex62 - Progressão Aritmética v3.0<br/>
 ex63 - Sequência de Fibonacci v1.0<br/>
 ex64 - Tratando vários valores v1.0<br/>
 ex65 - Maior e Menor Valores<br/>
+ex66 - Vários Números com Flag<br/>
+ex67 - Tabuada v3.0<br/>
+ex68 - GAME Par ou Ímpar<br/>
+ex69 - Análise de dados de grupo<br/>
+ex70 - Estatísticas em produtos<br/>
+ex71 - Simulador de Caixa Eletrônico<br/>
 </h3>
 
 </body>
