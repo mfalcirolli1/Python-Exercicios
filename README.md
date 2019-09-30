@@ -85,6 +85,12 @@ ex68 - GAME Par ou Ímpar<br/>
 ex69 - Análise de dados de grupo<br/>
 ex70 - Estatísticas em produtos<br/>
 ex71 - Simulador de Caixa Eletrônico<br/>
+ex72 - Número por Extenso<br/>
+ex73 - Tuplas com Times de Futebol<br/>
+ex74 - Maior e Menor valores em Tupla<br/>
+ex75 - Análise de dados em uma Tupla<br/>
+ex76 - Lista de Preços com Tupla<br/>
+ex77 - Contando Vogais em Tupla<br/>
 </h3>
 
 </body>
