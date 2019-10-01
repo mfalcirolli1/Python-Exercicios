@@ -95,6 +95,8 @@ ex78 - Maior e Menor valores na Lista<br/>
 ex79 - Valores únicos em uma Lista<br/>
 ex80 - Lista ordenada sem repetições<br/>
 ex81 - Extraindo dados de uma Lista<br/>
+ex82 - Dividindo valores em várias Listas<br/>
+ex83 - Validando Expressões Matemáticas<br/>
 </h3>
 
 </body>
