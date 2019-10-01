@@ -91,6 +91,10 @@ ex74 - Maior e Menor valores em Tupla<br/>
 ex75 - Análise de dados em uma Tupla<br/>
 ex76 - Lista de Preços com Tupla<br/>
 ex77 - Contando Vogais em Tupla<br/>
+ex78 - Maior e Menor valores na Lista<br/>
+ex79 - Valores únicos em uma Lista<br/>
+ex80 - Lista ordenada sem repetições<br/>
+ex81 - Extraindo dados de uma Lista<br/>
 </h3>
 
 </body>
