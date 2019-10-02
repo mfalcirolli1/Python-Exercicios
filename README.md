@@ -97,12 +97,12 @@ ex80 - Lista ordenada sem repetições<br/>
 ex81 - Extraindo dados de uma Lista<br/>
 ex82 - Dividindo valores em várias Listas<br/>
 ex83 - Validando Expressões Matemáticas<br/>
-ex84 - <br/>
-ex85 - <br/>
-ex86 - <br/>
-ex87 - <br/>
-ex88 - <br/>
-ex89 - <br/>
+ex84 - Lista composta e análise de dados<br/>
+ex85 - Listas com Pares e Ímpares<br/>
+ex86 - Matriz em Python<br/>
+ex87 - Mais sobre Matriz em Python<br/>
+ex88 - Palpites para a Mega Sena<br/>
+ex89 - Boletim com Listas Compostas<br/>
 </h3>
 
 </body>
