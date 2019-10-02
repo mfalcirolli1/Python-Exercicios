@@ -97,6 +97,12 @@ ex80 - Lista ordenada sem repetições<br/>
 ex81 - Extraindo dados de uma Lista<br/>
 ex82 - Dividindo valores em várias Listas<br/>
 ex83 - Validando Expressões Matemáticas<br/>
+ex84 - <br/>
+ex85 - <br/>
+ex86 - <br/>
+ex87 - <br/>
+ex88 - <br/>
+ex89 - <br/>
 </h3>
 
 </body>
