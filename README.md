@@ -103,6 +103,12 @@ ex86 - Matriz em Python<br/>
 ex87 - Mais sobre Matriz em Python<br/>
 ex88 - Palpites para a Mega Sena<br/>
 ex89 - Boletim com Listas Compostas<br/>
+ex90 - Dicionário em Python<br/>
+ex91 - Jogo de Dados em Python<br/>
+ex92 - Cadastro de Trabalhador em Python<br/>
+ex93 - Cadastro de Jogador de Futebol<br/>
+ex94 - Unindo Dicionários e Listas<br/>
+ex95 - Aprimorando os Dicionários<br/>
 </h3>
 
 </body>
