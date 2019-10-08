@@ -109,6 +109,11 @@ ex92 - Cadastro de Trabalhador em Python<br/>
 ex93 - Cadastro de Jogador de Futebol<br/>
 ex94 - Unindo Dicionários e Listas<br/>
 ex95 - Aprimorando os Dicionários<br/>
+ex96 - Função que calcula área<br/>
+ex97 - Um print especial<br/>
+ex98 - Função de Contador<br/>
+ex99 - Função que descobre o maior<br/>
+ex100 - Funções para sortear e somar<br/>
 </h3>
 
 </body>
