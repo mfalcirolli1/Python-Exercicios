@@ -114,6 +114,12 @@ ex97 - Um print especial<br/>
 ex98 - Função de Contador<br/>
 ex99 - Função que descobre o maior<br/>
 ex100 - Funções para sortear e somar<br/>
+ex101 - Funções para votação<br/>
+ex102 - Função para Fatorial<br/>
+ex103 - Ficha do Jogador<br/>
+ex104 - Validando entrada de dados em Python<br/>
+ex105 - Analisando e gerando Dicionários<br/>
+ex106 - Sistema interativo de ajuda em Python<br/>
 </h3>
 
 </body>
