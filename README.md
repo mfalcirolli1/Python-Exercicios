@@ -120,6 +120,10 @@ ex103 - Ficha do Jogador<br/>
 ex104 - Validando entrada de dados em Python<br/>
 ex105 - Analisando e gerando Dicionários<br/>
 ex106 - Sistema interativo de ajuda em Python<br/>
+ex107 - Exercitando módulos em Python<br/>
+ex108 - Formatando Moedas em Python<br/>
+ex109 - Formatando Moedas em Python v2.0<br/>
+
 </h3>
 
 </body>
